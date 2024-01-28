@@ -1,0 +1,3 @@
+[submodule "tp1-node/hachage-tp1"]
+	path = tp1-node/hachage-tp1
+	url = https://github.com/laurentgiustignano/hachage-tp1.git
